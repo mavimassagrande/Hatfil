@@ -4,3 +4,12 @@ dist
 server/public
 vite.config.ts.*
 *.tar.gz
+
+# Environment variables (contiene credenziali sensibili)
+.env
+.env.local
+.env.*.local
+
+# Script di utility temporanei
+clean-db.js
+test-db.js

@@ -1,0 +1,76 @@
+{
+    "archived": false,
+    "created": {
+        "at": "2026-01-21T15:58:10.454518365Z",
+        "by": {
+            "id": "46bcd6af-0b84-4252-b336-7b117005061f",
+            "full_name": "Arke Team",
+            "username": "team"
+        }
+    },
+    "custom_form_values": {
+        "generation": 0,
+        "values": null
+    },
+    "customer_attr": {
+        "id": "a148cb41-8d50-47c9-acd9-0c7d22376bdc",
+        "name": "TUNICOTEX",
+        "address": "ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-)",
+        "country": "TN",
+        "vat": "B2449122006"
+    },
+    "customer_id": "a148cb41-8d50-47c9-acd9-0c7d22376bdc",
+    "default_currency": "EUR",
+    "expected_shipping_time": "2026-01-23T15:58:00.424Z",
+    "foreign_ids": {},
+    "id": "ecc5de97-2254-4d24-b4e6-b7ea8eadd942",
+    "internal_id": "SO-2026/0018",
+    "notes": "",
+    "payment_method": "",
+    "priority": 3,
+    "products": [
+        {
+            "extra_id": "PARSLEY 12 - PANEL",
+            "name": "PARSLEY 12 - PANEL - NM 3/50 100% COTTON AEGEAN COMPACT GOTS LS",
+            "quantity": 3,
+            "uom": "unit",
+            "item_id": "1c8cb10f-d314-4a1e-a901-fca5e54db106",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "extra_id": "PARSLEY 14 - PANEL",
+            "name": "PARSLEY 14 - PANEL - NM 2/50 100% COTTON AEGEAN COMPACT GOTS LS",
+            "quantity": 4,
+            "uom": "unit",
+            "item_id": "14dfbbc1-8621-4cd7-b2ab-faabad242691",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        }
+    ],
+    "quote_internal_id": "",
+    "shipping_address": "ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN",
+    "status": "draft",
+    "time": "2026-01-21T15:58:10.053Z",
+    "total": 0,
+    "total_vat_incl": 0,
+    "updated": {
+        "at": "2026-01-21T15:58:10.454518632Z",
+        "by": {
+            "id": "46bcd6af-0b84-4252-b336-7b117005061f",
+            "full_name": "Arke Team",
+            "username": "team"
+        }
+    },
+    "version": 1
+}

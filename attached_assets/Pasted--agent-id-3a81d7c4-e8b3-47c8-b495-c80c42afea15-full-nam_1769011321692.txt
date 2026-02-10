@@ -1,0 +1,390 @@
+{
+    "agent": {
+        "id": "3a81d7c4-e8b3-47c8-b495-c80c42afea15",
+        "full_name": "Eric George",
+        "username": "egu"
+    },
+    "archived": false,
+    "created": {
+        "at": "2026-01-21T10:37:47.537823484Z",
+        "by": {
+            "id": "76c3d5fd-b638-4011-b885-deb0eadde8e4",
+            "full_name": "Utente generico",
+            "username": "agent1"
+        }
+    },
+    "custom_form_values": {
+        "generation": 0,
+        "values": null
+    },
+    "customer_attr": {
+        "id": "7902df93-bf82-4db4-8802-4e7055d2c7bb",
+        "name": "GUEST IN RESIDENCE",
+        "address": "42 Bond Street 10019 New York",
+        "country": "US",
+        "vat": ""
+    },
+    "customer_id": "7902df93-bf82-4db4-8802-4e7055d2c7bb",
+    "default_currency": "EUR",
+    "expected_shipping_time": "2026-02-05T23:00:00Z",
+    "external_id": "",
+    "foreign_ids": {},
+    "id": "a7a50b07-628a-4053-a186-51111c80eb14",
+    "internal_id": "SO-2026/0007",
+    "notes": "Vogue color card\nJamiro/Quai color card",
+    "payment_method": "",
+    "priority": 3,
+    "products": [
+        {
+            "id": "7e6a724c-4ffa-434a-a93a-75ee27262bf5",
+            "extra_id": "CRISP 21 - PANEL",
+            "name": "CRISP 21 - PANEL - NM 2/100 HIGH TWIST 100% COTTON AEGEAN GOTS LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "11813a79-e66d-4161-9c15-080f42be37e3",
+            "extra_id": "CRISP 18 - PANEL",
+            "name": "CRISP 18 - PANEL - NM 3/100  HIGH TWIST 100% COTTON AEGEAN GOTS LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "8fe65204-c301-4a06-ba72-a2249a6718c2",
+            "extra_id": "LEGGERO 18 DRY - PANEL",
+            "name": "LEGGERO 18 DRY  - PANEL - NM 3/100 100%  AEGEAN COTTON GOTS  GASSED LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "b0d2e652-0ff6-4e9a-83ae-6191157418ab",
+            "extra_id": "SUZETTE 14 - PANEL",
+            "name": "SUZETTE 14 - PANEL - NM 2/50 HIGH TWIST 100% COTTON AEGEAN GOTS LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "4af401f1-5eb9-4616-9b0f-3f2f134e1883",
+            "extra_id": "SUZETTE 14 DRY - PANEL",
+            "name": "SUZETTE 14 DRY - PANEL - NM 2/50  100% COTTON AEGEAN GOTS GASSED CREPE LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "e2761ea5-1c20-425f-b58c-3a13e4b72205",
+            "extra_id": "RATATOUILLE - PANEL",
+            "name": "RATATOUILLE - PANEL - NM 2/50 70% AEGEAN COTTON 20% LINEN 10% SILK",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 22,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "19c29401-6535-43bf-affe-7e531e877ff3",
+            "extra_id": "JAMIRO 14 - PANEL",
+            "name": "JAMIRO 14 - PANEL - NM2/50 85% AEGEAN COTTON gots LS 15% CASHMERE",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "41b6c289-561d-4d91-9ec5-ede76b2bc192",
+            "extra_id": "FLEXE 14 - PANEL",
+            "name": "FLEXE 14 - PANEL - NM 2/85 95% AEGEAN COTTON GOTS LS 5% ELASTAN",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 22,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "d8c916c2-1420-4a5d-b1c2-499f5aec3e0c",
+            "extra_id": "CHURRO 7000 - PANEL",
+            "name": "CHURRO 7000 - PANEL - NM 6/50 100% AEGEAN GRS ",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "56ecd4aa-8b05-45e3-a6f6-1e63bdfb77db",
+            "extra_id": "LEGGERO TAPE 2000 - PANEL",
+            "name": "LEGGERO TAPE 2000 - PANEL - NM 2000 100% AEGEAN COTTON GOTS LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "76cde33d-9b97-4fd3-ab8e-3825e5042f95",
+            "extra_id": "LEGGERO TAPE 3200 - PANEL",
+            "name": "LEGGERO TAPE 3200 - PANEL - NM 3200 100% AEGEAN COTTON GOTS LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "0f7d8bfd-7452-4dfb-a7e9-d09ff9775565",
+            "extra_id": "SLICK 18 - PANEL",
+            "name": "SLICK 18 - PANEL - NM 2/68 100% AEGEAN COTTON GOTS LS ",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "85e123fc-459f-4e86-80c2-1011e8da673f",
+            "extra_id": "LEGGERO TAPE 3200 GLOSS - PANEL",
+            "name": "LEGGERO TAPE 3200 GLOSS - PANEL - NM 3200 100% AEGEAN COTTON GOTS GASSED MERCERIZED LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "fc265065-5531-4d14-be99-3ee4f0b76414",
+            "extra_id": "LEGGERO TAPE 2000 GLOSS - PANEL",
+            "name": "LEGGERO TAPE 2000 GLOSS - PANEL - NM 2000 100% AEGEAN COTTON GOTS GASSED MERCERIZED LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "7b81da64-7a35-4771-9117-7b9828a47e43",
+            "extra_id": "PARSLEY CORD 1100 GLOSS - PANEL",
+            "name": "PARSLEY CORD 1100 GLOSS - PANEL - NM 1100 100% AEGEAN COTTON GOTS GASSED MERCERIZED LS ",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "709d0536-a0f0-44ea-972d-f07b069cc4ff",
+            "extra_id": "MOSSO TAPE 3200 - PANEL",
+            "name": "MOSSO TAPE 3200 - PANEL - NM 3200 100% AEGEAN COTTON GOTS GASSED MERCERIZED LS",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 22,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "72418d04-4462-4784-ad28-63d115257c75",
+            "extra_id": "HUITRE 14 - PANEL",
+            "name": "HUITRE 14 - PANEL - NM 2/50 70% PIMA COTTON ELS 15% CASHMERE 15% SILK MULBERRY",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "8e386709-c34b-4b6e-b26d-eed49981bff8",
+            "extra_id": "HUITRE CORD 3 - PANEL",
+            "name": "HUITRE CORD 3 - PANEL - NM 2/50X12 - 70% PIMA COTTON ELS 15% CASHMERE - 15% SILK",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "c2d63947-2675-45e2-8c2a-a8d7ce92aa49",
+            "extra_id": "QUAI 14 - PANEL",
+            "name": "QUAI 14 - PANEL - NM 2/50 90% AEGEAN COTTON GOTS LS 10% CASHMERE",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "69f311f4-b317-4c08-8732-5ddfe4bbd721",
+            "extra_id": "QUAI CORD 3 - PANEL",
+            "name": "QUAI CORD 3 - PANEL - NM 2/50X10 85% AEGEAN COTTON GOTS LS 15% CASHMERE",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "11deb8fa-9d04-47c7-a74f-72cc5eb663d7",
+            "extra_id": "VOGUE 14 - PANEL",
+            "name": "VOGUE 14 - PANEL - NM 2/50 70% PIMA COTTON ELS 30% SILK MULBERRY",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "b40b9147-639b-417d-bd78-9a976676cfba",
+            "extra_id": "VOGUE 18 - PANEL",
+            "name": "VOGUE 18 - PANEL - NM 2/68 70% PIMA COTTON ELS 30% SILK MULBERRY",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "c9fb256f-ea98-4c57-9d43-d10e4eec79ee",
+            "extra_id": "VOGUE TAPE 3 - PANEL",
+            "name": "VOGUE TAPE 3 - PANEL - NM 3500 70% PIMA COTTON ELS 30% SILK MULBERRY",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        },
+        {
+            "id": "e13b39cb-8f71-4276-8ce6-68b51a8496ce",
+            "extra_id": "Stock144 - Cartella Colori",
+            "name": "Cartella colori - Stock 144 - Forward",
+            "quantity": 1,
+            "uom": "unit",
+            "prices": {
+                "currency": "EUR",
+                "unit": 0,
+                "vat": 0,
+                "base_price": 0,
+                "discount_percent": 0
+            }
+        }
+    ],
+    "quote_internal_id": "",
+    "shipping_address": "42 Bond Street 10019 New York - US",
+    "status": "accepted",
+    "time": "2026-01-21T10:37:47.317Z",
+    "total": 0,
+    "total_vat_incl": 0,
+    "updated": {
+        "at": "2026-01-21T10:39:42.744055395Z",
+        "by": {
+            "id": "76c3d5fd-b638-4011-b885-deb0eadde8e4",
+            "full_name": "Utente generico",
+            "username": "agent1"
+        }
+    },
+    "version": 5
+}

@@ -1,0 +1,68 @@
+{
+    "agent": {
+        "id": "aaf56c3d-083f-41d0-88cb-1aa0733a07fa",
+        "full_name": "Stephane Lalieve",
+        "username": "slf"
+    },
+    "archived": false,
+    "created": {
+        "at": "2026-01-14T12:11:58.53632084Z",
+        "by": {
+            "id": "4850f0d1-fbcf-4943-9487-c6e7aeb60497",
+            "full_name": "Vittorio Verzotti",
+            "username": "vittorio"
+        }
+    },
+    "custom_form_values": {
+        "generation": 0,
+        "values": null
+    },
+    "customer_attr": {
+        "id": "1db931a6-ff8a-4893-b4f5-1c7722867658",
+        "name": "MAILLE ANGIE ",
+        "address": "IMMEUBLE SEQUOIA  ZA LA BEUCHERIE  53000 LAVAL\n",
+        "country": "FR",
+        "vat": "FR96837738103"
+    },
+    "customer_id": "1db931a6-ff8a-4893-b4f5-1c7722867658",
+    "default_currency": "EUR",
+    "expected_shipping_time": "2026-01-14T23:00:00Z",
+    "external_id": "FORWARD SALES CAMPAIN",
+    "foreign_ids": {},
+    "id": "50cb8b9f-7d05-4382-ab33-447eabdfee95",
+    "internal_id": "SO-2026/0005",
+    "notes": "",
+    "payment_method": "",
+    "priority": 3,
+    "products": [
+        {
+            "id": "50690dd3-1e20-423c-b09b-0e631787d7f8",
+            "extra_id": "PARSLEY 12 - 1080",
+            "name": "PARSLEY 12 - 1080 - NM 3/50   100% COTTON AEGEAN COMPACT GOTS LS",
+            "quantity": 2,
+            "uom": "kilogram",
+            "prices": {
+                "currency": "EUR",
+                "unit": 21,
+                "vat": 0,
+                "base_price": 21,
+                "discount_percent": 0
+            }
+        }
+    ],
+    "quote_internal_id": "",
+    "shipping_address": "IMMEUBLE SEQUOIA ZA LA BEUCHERIE 53000 LAVAL - FR",
+    "status": "accepted",
+    "time": "2026-01-14T12:11:58.565Z",
+    "total": 42,
+    "total_vat_incl": 42,
+    "updated": {
+        "at": "2026-01-14T12:12:47.590280278Z",
+        "by": {
+            "id": "4850f0d1-fbcf-4943-9487-c6e7aeb60497",
+            "full_name": "Vittorio Verzotti",
+            "username": "vittorio"
+        }
+    },
+    "version": 9
+}

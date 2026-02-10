@@ -1,0 +1,79 @@
+{
+    "archived": false,
+    "attributes": {},
+    "bundled_products": [],
+    "categories": [
+        "PANEL"
+    ],
+    "created": {
+        "at": "2025-12-01T12:16:41.175618364+01:00",
+        "by": {
+            "id": "46bcd6af-0b84-4252-b336-7b117005061f",
+            "full_name": "Arke Team",
+            "username": "team"
+        }
+    },
+    "custom_form_values": {
+        "generation": 0,
+        "values": [
+            {
+                "name": "variante",
+                "label": "VARIANTE",
+                "type": "FormFieldV1",
+                "index": 0,
+                "value": "PANEL"
+            }
+        ]
+    },
+    "description": "",
+    "foreign_ids": {},
+    "id": "198ed8be-9d20-47ab-b610-d0fd5a5be955",
+    "internal_id": "LEGGERO 18 GLOSS - PANEL",
+    "master_type": "LEGGERO 18 GLOSS",
+    "name": "LEGGERO 18 GLOSS - PANEL - NM 3/105 100%  AEGEAN COTTON GOTS GASSED MERCERISED LS",
+    "notes": "",
+    "plan": [
+        {
+            "operator": "and",
+            "processes": [
+                {
+                    "properties": {
+                        "description": "",
+                        "duration": 0,
+                        "id": "11111111-1111-1111-1111-111111111111",
+                        "name": "_additional_materials"
+                    },
+                    "requirements": {
+                        "raw_materials": []
+                    }
+                }
+            ]
+        }
+    ],
+    "prices": {
+        "currency": "EUR",
+        "unit": 0,
+        "deals": [
+            {
+                "min_quantity": 1,
+                "unit": 0,
+                "category": "Unit price"
+            }
+        ],
+        "vat": 0
+    },
+    "process_lines": [],
+    "raw_materials": [],
+    "track_supplier_warehouses": false,
+    "type": "purchasable",
+    "uom": "unit",
+    "updated": {
+        "at": "2026-01-22T17:05:02.948084187+01:00",
+        "by": {
+            "id": "46bcd6af-0b84-4252-b336-7b117005061f",
+            "full_name": "Arke Team",
+            "username": "team"
+        }
+    },
+    "version": 6
+}

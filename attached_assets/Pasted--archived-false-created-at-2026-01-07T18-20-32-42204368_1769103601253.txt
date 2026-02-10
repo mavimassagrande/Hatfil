@@ -1,0 +1,1331 @@
+{
+    "archived": false,
+    "created": {
+        "at": "2026-01-07T18:20:32.42204368Z",
+        "by": {
+            "id": "46bcd6af-0b84-4252-b336-7b117005061f",
+            "full_name": "Arke Team",
+            "username": "team"
+        }
+    },
+    "custom_form_values": {
+        "generation": 0,
+        "values": null
+    },
+    "external_id": "DDT - PARSLEY 14 GLOSS",
+    "foreign_ids": {},
+    "id": "bceb11c4-c4a7-4fd6-a201-884e2027deb9",
+    "notes": "",
+    "raw_materials": [
+        {
+            "id": "d888a1b4-1b09-4408-922a-1eca7a4d459e",
+            "extra_id": "PARSLEY 14 GLOSS - 6320",
+            "name": "PARSLEY 14 GLOSS - 6320 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.1.1"
+        },
+        {
+            "id": "d3d373de-8508-4726-9c5b-2e108c616d56",
+            "extra_id": "PARSLEY 14 GLOSS - 6690",
+            "name": "PARSLEY 14 GLOSS - 6690 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 1,
+            "external_lot": "127.11.1"
+        },
+        {
+            "id": "d7b95170-f85c-4fbf-bdc5-b2c29c315804",
+            "extra_id": "PARSLEY 14 GLOSS - 6270",
+            "name": "PARSLEY 14 GLOSS - 6270 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 11,
+            "external_lot": "127.12.1"
+        },
+        {
+            "id": "bfda90ca-97be-44be-8fc9-8f2a3c57e2e7",
+            "extra_id": "PARSLEY 14 GLOSS - 6415",
+            "name": "PARSLEY 14 GLOSS - 6415 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.14.1"
+        },
+        {
+            "id": "1720b246-2f0e-4c08-8920-9058d0b95079",
+            "extra_id": "PARSLEY 14 GLOSS - 6020",
+            "name": "PARSLEY 14 GLOSS - 6020 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.15.1"
+        },
+        {
+            "id": "b10a203c-bb4f-42e9-bc90-ef3e08ce3b78",
+            "extra_id": "PARSLEY 14 GLOSS - 6055",
+            "name": "PARSLEY 14 GLOSS - 6055 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.16.3"
+        },
+        {
+            "id": "21530c9e-9c4d-42f4-b569-7a25c723c0aa",
+            "extra_id": "PARSLEY 14 GLOSS - 6365",
+            "name": "PARSLEY 14 GLOSS - 6365 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.17.1"
+        },
+        {
+            "id": "5f318eca-f70a-4cbe-8909-22c80621b4c1",
+            "extra_id": "PARSLEY 14 GLOSS - 6115",
+            "name": "PARSLEY 14 GLOSS - 6115 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.19.1"
+        },
+        {
+            "id": "755f66d2-62ca-48b2-830d-a870904a88c5",
+            "extra_id": "PARSLEY 14 GLOSS - 6695",
+            "name": "PARSLEY 14 GLOSS - 6695 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 10,
+            "external_lot": "127.2.1"
+        },
+        {
+            "id": "6dc19d9f-0efd-4761-a388-fc6a53c932b3",
+            "extra_id": "PARSLEY 14 GLOSS - 6445",
+            "name": "PARSLEY 14 GLOSS - 6445 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 10,
+            "external_lot": "127.20.1"
+        },
+        {
+            "id": "feb7100c-7d0f-4dac-aa98-a5b0cfd88dab",
+            "extra_id": "PARSLEY 14 GLOSS - 6620",
+            "name": "PARSLEY 14 GLOSS - 6620 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 11,
+            "external_lot": "127.21.1"
+        },
+        {
+            "id": "cf4f359d-ddb0-4cdb-ba1c-b5c9c3489c58",
+            "extra_id": "PARSLEY 14 GLOSS - 6635",
+            "name": "PARSLEY 14 GLOSS - 6635 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.22.1"
+        },
+        {
+            "id": "f87d52a7-b883-498a-8274-fb58232e4907",
+            "extra_id": "PARSLEY 14 GLOSS - 6505",
+            "name": "PARSLEY 14 GLOSS - 6505 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "127.23.1"
+        },
+        {
+            "id": "cdee0862-4af1-48de-a954-89a8b06f499f",
+            "extra_id": "PARSLEY 14 GLOSS - 6045",
+            "name": "PARSLEY 14 GLOSS - 6045 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 3,
+            "external_lot": "127.24.1"
+        },
+        {
+            "id": "168a17db-a1e0-4f45-bf93-6468f5129631",
+            "extra_id": "PARSLEY 14 GLOSS - 6125",
+            "name": "PARSLEY 14 GLOSS - 6125 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "127.25.1"
+        },
+        {
+            "id": "64f8eeef-b132-4421-984e-075f126f2ecc",
+            "extra_id": "PARSLEY 14 GLOSS - 6675",
+            "name": "PARSLEY 14 GLOSS - 6675 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 11,
+            "external_lot": "127.27.1"
+        },
+        {
+            "id": "3cc8af18-af46-444b-ac91-a47541dc62c9",
+            "extra_id": "PARSLEY 14 GLOSS - 6555",
+            "name": "PARSLEY 14 GLOSS - 6555 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.28.1"
+        },
+        {
+            "id": "8f563dba-f7a5-4cfa-94a8-88b37fc6e7ae",
+            "extra_id": "PARSLEY 14 GLOSS - 6170",
+            "name": "PARSLEY 14 GLOSS - 6170 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.29.1"
+        },
+        {
+            "id": "bec4aa68-b5ee-4f89-82f7-52e19364a2ca",
+            "extra_id": "PARSLEY 14 GLOSS - 6440",
+            "name": "PARSLEY 14 GLOSS - 6440 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.3.3"
+        },
+        {
+            "id": "80a5eac6-4ff6-40cf-bbc0-30d68bf689d5",
+            "extra_id": "PARSLEY 14 GLOSS - 6560",
+            "name": "PARSLEY 14 GLOSS - 6560 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 9,
+            "external_lot": "127.30.4"
+        },
+        {
+            "id": "56dd2d52-fe0d-41a5-abae-450fd915a746",
+            "extra_id": "PARSLEY 14 GLOSS - 6025",
+            "name": "PARSLEY 14 GLOSS - 6025 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 18,
+            "external_lot": "127.31.1"
+        },
+        {
+            "id": "110e892b-9afc-4a79-8815-d7c6b1e9556b",
+            "extra_id": "PARSLEY 14 GLOSS - 6150",
+            "name": "PARSLEY 14 GLOSS - 6150 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.32.1"
+        },
+        {
+            "id": "cd85a54f-aa55-4508-8bf6-aacb79376ef6",
+            "extra_id": "PARSLEY 14 GLOSS - 6610",
+            "name": "PARSLEY 14 GLOSS - 6610 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "127.33.1"
+        },
+        {
+            "id": "18c96d8f-e57d-444a-ad19-91fa1e5b4010",
+            "extra_id": "PARSLEY 14 GLOSS - 6160",
+            "name": "PARSLEY 14 GLOSS - 6160 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "127.34.1"
+        },
+        {
+            "id": "3c2f7c9e-9a60-4c22-8f11-bebeb38a25a7",
+            "extra_id": "PARSLEY 14 GLOSS - 6700",
+            "name": "PARSLEY 14 GLOSS - 6700 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "127.35.1"
+        },
+        {
+            "id": "b8190ebe-f65d-47f6-967f-f0a72695ba50",
+            "extra_id": "PARSLEY 14 GLOSS - 6090",
+            "name": "PARSLEY 14 GLOSS - 6090 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "127.36.1"
+        },
+        {
+            "id": "5c0802bc-7671-4905-8d08-03935e76b786",
+            "extra_id": "PARSLEY 14 GLOSS - 6655",
+            "name": "PARSLEY 14 GLOSS - 6655 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 10,
+            "external_lot": "127.37.1"
+        },
+        {
+            "id": "ba4d19f7-09bf-4fef-be7d-c9d2de3cb795",
+            "extra_id": "PARSLEY 14 GLOSS - 6100",
+            "name": "PARSLEY 14 GLOSS - 6100 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 2,
+            "external_lot": "127.38.1"
+        },
+        {
+            "id": "409049b5-2323-42ed-81f0-a8f1767acaf2",
+            "extra_id": "PARSLEY 14 GLOSS - 6580",
+            "name": "PARSLEY 14 GLOSS - 6580 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 3,
+            "external_lot": "127.39.1"
+        },
+        {
+            "id": "6ab48cce-18d0-4590-9ac2-6ed9785408d0",
+            "extra_id": "PARSLEY 14 GLOSS - 6300",
+            "name": "PARSLEY 14 GLOSS - 6300 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.4.1"
+        },
+        {
+            "id": "aa494aba-c9f2-4d7e-8512-2339eda6a084",
+            "extra_id": "PARSLEY 14 GLOSS - 6200",
+            "name": "PARSLEY 14 GLOSS - 6200 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 10,
+            "external_lot": "127.40.1"
+        },
+        {
+            "id": "c6784b30-d1cb-480f-9542-a993d7aa9033",
+            "extra_id": "PARSLEY 14 GLOSS - 6165",
+            "name": "PARSLEY 14 GLOSS - 6165 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 3,
+            "external_lot": "127.41.1"
+        },
+        {
+            "id": "e31155cb-631f-43d5-a3c3-9a0ab9faf1c4",
+            "extra_id": "PARSLEY 14 GLOSS - 6570",
+            "name": "PARSLEY 14 GLOSS - 6570 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.42.1"
+        },
+        {
+            "id": "b59dd9f7-d706-4c14-91b7-6e15b1e6f33d",
+            "extra_id": "PARSLEY 14 GLOSS - 6205",
+            "name": "PARSLEY 14 GLOSS - 6205 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 10,
+            "external_lot": "127.43.3"
+        },
+        {
+            "id": "ef102db7-29bc-4022-9108-08f227233330",
+            "extra_id": "PARSLEY 14 GLOSS - 6155",
+            "name": "PARSLEY 14 GLOSS - 6155 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 11,
+            "external_lot": "127.44.1"
+        },
+        {
+            "id": "79e3d013-18a4-4026-a637-12e98c46ba05",
+            "extra_id": "PARSLEY 14 GLOSS - 6465",
+            "name": "PARSLEY 14 GLOSS - 6465 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "127.45.1"
+        },
+        {
+            "id": "74d43109-f93e-48ff-afe4-972a5feeeb0a",
+            "extra_id": "PARSLEY 14 GLOSS - 6405",
+            "name": "PARSLEY 14 GLOSS - 6405 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 10,
+            "external_lot": "127.48.1"
+        },
+        {
+            "id": "348091cd-43b3-4437-8811-93008421c7cf",
+            "extra_id": "PARSLEY 14 GLOSS - 6130",
+            "name": "PARSLEY 14 GLOSS - 6130 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 10,
+            "external_lot": "127.47.2"
+        },
+        {
+            "id": "cb0cd962-d6a0-449d-8da8-785c505517f7",
+            "extra_id": "PARSLEY 14 GLOSS - 6220",
+            "name": "PARSLEY 14 GLOSS - 6220 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 8,
+            "external_lot": "127.48.1"
+        },
+        {
+            "id": "79f5b124-f560-4181-be13-f310a8b7e892",
+            "extra_id": "PARSLEY 14 GLOSS - 6135",
+            "name": "PARSLEY 14 GLOSS - 6135 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 14,
+            "external_lot": "127.49.2"
+        },
+        {
+            "id": "44d18171-3384-4099-8321-c9245b5f76b7",
+            "extra_id": "PARSLEY 14 GLOSS - 6410",
+            "name": "PARSLEY 14 GLOSS - 6410 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.6.1"
+        },
+        {
+            "id": "276d4fb4-470f-4d21-8a2e-28b1673592fd",
+            "extra_id": "PARSLEY 14 GLOSS - 6235",
+            "name": "PARSLEY 14 GLOSS - 6235 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.7.1"
+        },
+        {
+            "id": "b49871fe-d779-4226-a312-f1dfd25ff465",
+            "extra_id": "PARSLEY 14 GLOSS - 6230",
+            "name": "PARSLEY 14 GLOSS - 6230 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.8.1"
+        },
+        {
+            "id": "60ec9e43-a5f8-44fd-a2c4-ca837af6d4e0",
+            "extra_id": "PARSLEY 14 GLOSS - 6385",
+            "name": "PARSLEY 14 GLOSS - 6385 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.9.1"
+        },
+        {
+            "id": "b3f1b5bd-b3d5-4185-a83c-7318a1f030a4",
+            "extra_id": "PARSLEY 14 GLOSS - 6210",
+            "name": "PARSLEY 14 GLOSS - 6210 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.1.1"
+        },
+        {
+            "id": "dc2025c2-f74f-47d9-b312-098943f63d16",
+            "extra_id": "PARSLEY 14 GLOSS - 6245",
+            "name": "PARSLEY 14 GLOSS - 6245 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.10.1"
+        },
+        {
+            "id": "27aaf033-b3fb-47cb-858b-d10a9b60670d",
+            "extra_id": "PARSLEY 14 GLOSS - 6275",
+            "name": "PARSLEY 14 GLOSS - 6275 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.11.1"
+        },
+        {
+            "id": "7effd4f5-4d85-4c2c-9d93-60b63c16bbac",
+            "extra_id": "PARSLEY 14 GLOSS - 6065",
+            "name": "PARSLEY 14 GLOSS - 6065 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.13.1"
+        },
+        {
+            "id": "6096a04d-8c5a-4f57-bcd6-d52f5e6ea752",
+            "extra_id": "PARSLEY 14 GLOSS - 6080",
+            "name": "PARSLEY 14 GLOSS - 6080 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.14.1"
+        },
+        {
+            "id": "d00796f9-15d1-450d-b19a-6e242147260b",
+            "extra_id": "PARSLEY 14 GLOSS - 6600",
+            "name": "PARSLEY 14 GLOSS - 6600 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.15.1"
+        },
+        {
+            "id": "04403e76-8e4b-4937-8e2d-ab2222bcfe0e",
+            "extra_id": "PARSLEY 14 GLOSS - 6260",
+            "name": "PARSLEY 14 GLOSS - 6260 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.16.1"
+        },
+        {
+            "id": "4895ae23-9abb-44c7-b9e3-38ae77d7913a",
+            "extra_id": "PARSLEY 14 GLOSS - 6425",
+            "name": "PARSLEY 14 GLOSS - 6425 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.17.1"
+        },
+        {
+            "id": "90e625d7-ae15-4504-8f83-3f8491f2426e",
+            "extra_id": "PARSLEY 14 GLOSS - 6225",
+            "name": "PARSLEY 14 GLOSS - 6225 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.18.1"
+        },
+        {
+            "id": "d639e3de-48d1-4b26-b766-2c4138d82891",
+            "extra_id": "PARSLEY 14 GLOSS - 6450",
+            "name": "PARSLEY 14 GLOSS - 6450 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.19.1"
+        },
+        {
+            "id": "adcd8759-0802-48b6-9284-5c50cdead16a",
+            "extra_id": "PARSLEY 14 GLOSS - 6180",
+            "name": "PARSLEY 14 GLOSS - 6180 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.2.1"
+        },
+        {
+            "id": "b949419e-7c80-40e3-9c8d-878bff48c473",
+            "extra_id": "PARSLEY 14 GLOSS - 6435",
+            "name": "PARSLEY 14 GLOSS - 6435 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.20.1"
+        },
+        {
+            "id": "a84e5c5e-3c76-4f1d-a8ef-6c99eb670055",
+            "extra_id": "PARSLEY 14 GLOSS - 6120",
+            "name": "PARSLEY 14 GLOSS - 6120 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.21.1"
+        },
+        {
+            "id": "7d21a74b-73c1-4cf5-b5d2-46fb610de09d",
+            "extra_id": "PARSLEY 14 GLOSS - 6215",
+            "name": "PARSLEY 14 GLOSS - 6215 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.22.1"
+        },
+        {
+            "id": "cd5654f7-464b-4095-8c47-dce2f137739d",
+            "extra_id": "PARSLEY 14 GLOSS - 6190",
+            "name": "PARSLEY 14 GLOSS - 6190 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.23.1"
+        },
+        {
+            "id": "c7517b33-07e8-45ab-9e58-7171adbc0760",
+            "extra_id": "PARSLEY 14 GLOSS - 6615",
+            "name": "PARSLEY 14 GLOSS - 6615 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.25.1"
+        },
+        {
+            "id": "adad9c24-55bb-45e8-8b24-527926b9eba0",
+            "extra_id": "PARSLEY 14 GLOSS - 6625",
+            "name": "PARSLEY 14 GLOSS - 6625 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 8,
+            "external_lot": "1475.26.1"
+        },
+        {
+            "id": "977f76e8-9ee6-4271-a65b-9a8d4ff7baa2",
+            "extra_id": "PARSLEY 14 GLOSS - 6565",
+            "name": "PARSLEY 14 GLOSS - 6565 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.27.1"
+        },
+        {
+            "id": "706e1780-ce1d-4b78-aa3c-5ba7e12d2f65",
+            "extra_id": "PARSLEY 14 GLOSS - 6645",
+            "name": "PARSLEY 14 GLOSS - 6645 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.28.1"
+        },
+        {
+            "id": "8d0e1039-13a2-4bb4-a956-2c1b75e97151",
+            "extra_id": "PARSLEY 14 GLOSS - 6515",
+            "name": "PARSLEY 14 GLOSS - 6515 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.29.1"
+        },
+        {
+            "id": "16c3589f-8e90-4c6d-8e1a-d7cdb2437e98",
+            "extra_id": "PARSLEY 14 GLOSS - 6075",
+            "name": "PARSLEY 14 GLOSS - 6075 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.3.1"
+        },
+        {
+            "id": "0bfa5a69-06c8-4fff-a1a9-6e9cb74c7f3b",
+            "extra_id": "PARSLEY 14 GLOSS - 6360",
+            "name": "PARSLEY 14 GLOSS - 6360 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.30.1"
+        },
+        {
+            "id": "fcc1de64-a638-4454-b464-ca8bf23dc411",
+            "extra_id": "PARSLEY 14 GLOSS - 6050",
+            "name": "PARSLEY 14 GLOSS - 6050 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.31.1"
+        },
+        {
+            "id": "9816800b-bc8e-4ee4-9988-32991210f6e3",
+            "extra_id": "PARSLEY 14 GLOSS - 6685",
+            "name": "PARSLEY 14 GLOSS - 6685 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 3,
+            "external_lot": "1475.32.1"
+        },
+        {
+            "id": "ceb1ded2-55e5-40ce-9f9c-2b38fa02194e",
+            "extra_id": "PARSLEY 14 GLOSS - 6640",
+            "name": "PARSLEY 14 GLOSS - 6640 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.33.1"
+        },
+        {
+            "id": "b5aefb5c-a4a2-46b0-886a-016e8fa9d706",
+            "extra_id": "PARSLEY 14 GLOSS - 6495",
+            "name": "PARSLEY 14 GLOSS - 6495 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.34.1"
+        },
+        {
+            "id": "7101a002-2a5b-4e59-8788-1f4ef0c7961d",
+            "extra_id": "PARSLEY 14 GLOSS - 6035",
+            "name": "PARSLEY 14 GLOSS - 6035 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.35.1"
+        },
+        {
+            "id": "e53e599e-be1e-46da-8d7e-631790e2e5d7",
+            "extra_id": "PARSLEY 14 GLOSS - 6240",
+            "name": "PARSLEY 14 GLOSS - 6240 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 3,
+            "external_lot": "1475.37.1"
+        },
+        {
+            "id": "f363f611-52b3-4c7a-ad95-e8729f30d3ef",
+            "extra_id": "PARSLEY 14 GLOSS - 6390",
+            "name": "PARSLEY 14 GLOSS - 6390 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 2,
+            "external_lot": "1475.38.1"
+        },
+        {
+            "id": "6bd3933f-9a26-4d38-a482-b1950829d3c8",
+            "extra_id": "PARSLEY 14 GLOSS - 6110",
+            "name": "PARSLEY 14 GLOSS - 6110 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 3,
+            "external_lot": "1475.39.1"
+        },
+        {
+            "id": "007aba24-d594-4cb5-94e5-d1e673b78ace",
+            "extra_id": "PARSLEY 14 GLOSS - 6265",
+            "name": "PARSLEY 14 GLOSS - 6265 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.4.1"
+        },
+        {
+            "id": "532f0ff5-6486-42fc-8e7d-f2cc7c4d50d1",
+            "extra_id": "PARSLEY 14 GLOSS - 6340",
+            "name": "PARSLEY 14 GLOSS - 6340 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.40.1"
+        },
+        {
+            "id": "9f6a270d-0bb3-441b-9e04-f36ecb988a13",
+            "extra_id": "PARSLEY 14 GLOSS - 6535",
+            "name": "PARSLEY 14 GLOSS - 6535 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.41.1"
+        },
+        {
+            "id": "621a2e9b-c059-4084-847d-13bb3f977546",
+            "extra_id": "PARSLEY 14 GLOSS - 6195",
+            "name": "PARSLEY 14 GLOSS - 6195 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.42.1"
+        },
+        {
+            "id": "1b8485f7-43b5-4a3c-861b-b3e341ec20b8",
+            "extra_id": "PARSLEY 14 GLOSS - 6060",
+            "name": "PARSLEY 14 GLOSS - 6060 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.43.1"
+        },
+        {
+            "id": "23c9b396-dc91-4a82-b776-a017069929bc",
+            "extra_id": "PARSLEY 14 GLOSS - 6175",
+            "name": "PARSLEY 14 GLOSS - 6175 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.44.1"
+        },
+        {
+            "id": "ba1cf779-a9fa-4d7a-a73b-7c2be32b73f9",
+            "extra_id": "PARSLEY 14 GLOSS - 6670",
+            "name": "PARSLEY 14 GLOSS - 6670 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.45.1"
+        },
+        {
+            "id": "759fc8a8-dbc5-4f2d-accd-fdd1c824e545",
+            "extra_id": "PARSLEY 14 GLOSS - 6030",
+            "name": "PARSLEY 14 GLOSS - 6030 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.47.1"
+        },
+        {
+            "id": "d7935655-2cb7-445f-9960-a768f32c1fc0",
+            "extra_id": "PARSLEY 14 GLOSS - 6720",
+            "name": "PARSLEY 14 GLOSS - 6720 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.48.1"
+        },
+        {
+            "id": "8e0a2675-cece-49ff-b1bc-f2170da5d208",
+            "extra_id": "PARSLEY 14 GLOSS - 6455",
+            "name": "PARSLEY 14 GLOSS - 6455 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.49.1"
+        },
+        {
+            "id": "8e0a2675-cece-49ff-b1bc-f2170da5d208",
+            "extra_id": "PARSLEY 14 GLOSS - 6455",
+            "name": "PARSLEY 14 GLOSS - 6455 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 2,
+            "external_lot": "1475.49.2"
+        },
+        {
+            "id": "7a1005e3-b543-4b5a-9cb3-e1996e057ec5",
+            "extra_id": "PARSLEY 14 GLOSS - 6660",
+            "name": "PARSLEY 14 GLOSS - 6660 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.5.1"
+        },
+        {
+            "id": "6e834ad7-e193-4ffc-876c-2f048a9491e5",
+            "extra_id": "PARSLEY 14 GLOSS - 6070",
+            "name": "PARSLEY 14 GLOSS - 6070 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.50.1"
+        },
+        {
+            "id": "8aaf5547-8068-4e5d-8a3b-e4732024dede",
+            "extra_id": "PARSLEY 14 GLOSS - 6665",
+            "name": "PARSLEY 14 GLOSS - 6665 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.51.1"
+        },
+        {
+            "id": "cdd2546b-b0ef-4b47-ab85-dfdbb14e4c9e",
+            "extra_id": "PARSLEY 14 GLOSS - 6595",
+            "name": "PARSLEY 14 GLOSS - 6595 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.52.1"
+        },
+        {
+            "id": "bca1bae0-7dc9-45d2-9739-346ef47e858e",
+            "extra_id": "PARSLEY 14 GLOSS - 6105",
+            "name": "PARSLEY 14 GLOSS - 6105 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.53.1"
+        },
+        {
+            "id": "0a8026ba-e607-4b18-a285-1a8402fedb8a",
+            "extra_id": "PARSLEY 14 GLOSS - 6520",
+            "name": "PARSLEY 14 GLOSS - 6520 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.54.1"
+        },
+        {
+            "id": "c92e8c82-e566-4667-80d0-a8c6291bcae9",
+            "extra_id": "PARSLEY 14 GLOSS - 6250",
+            "name": "PARSLEY 14 GLOSS - 6250 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.56.1"
+        },
+        {
+            "id": "e15c1ac6-22d8-4f04-aa6f-89520d8b44f8",
+            "extra_id": "PARSLEY 14 GLOSS - 6145",
+            "name": "PARSLEY 14 GLOSS - 6145 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.58.1"
+        },
+        {
+            "id": "f81f4013-5b94-4ac7-afc6-a969c2d79225",
+            "extra_id": "PARSLEY 14 GLOSS - 6400",
+            "name": "PARSLEY 14 GLOSS - 6400 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.59.1"
+        },
+        {
+            "id": "f81f4013-5b94-4ac7-afc6-a969c2d79225",
+            "extra_id": "PARSLEY 14 GLOSS - 6400",
+            "name": "PARSLEY 14 GLOSS - 6400 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 35,
+            "external_lot": "1475.59.2"
+        },
+        {
+            "id": "f86160e9-225c-4e4e-b0e0-728119d72e80",
+            "extra_id": "PARSLEY 14 GLOSS - 6380",
+            "name": "PARSLEY 14 GLOSS - 6380 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.6.1"
+        },
+        {
+            "id": "eb8da4bb-1ee8-4a6c-8e2f-e756c2f37f64",
+            "extra_id": "PARSLEY 14 GLOSS - 6460",
+            "name": "PARSLEY 14 GLOSS - 6460 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.60.1"
+        },
+        {
+            "id": "c3a284f8-261d-42cb-b6e2-eea2a0efd651",
+            "extra_id": "PARSLEY 14 GLOSS - 6010",
+            "name": "PARSLEY 14 GLOSS - 6010 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 3,
+            "external_lot": "1475.61.1"
+        },
+        {
+            "id": "4e7e7a26-5738-4c59-bf19-5a4a02a7435f",
+            "extra_id": "PARSLEY 14 GLOSS - 6330",
+            "name": "PARSLEY 14 GLOSS - 6330 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.62.1"
+        },
+        {
+            "id": "2036e71f-4189-4c15-aa31-11abbe7e7c56",
+            "extra_id": "PARSLEY 14 GLOSS - 6355",
+            "name": "PARSLEY 14 GLOSS - 6355 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.63.1"
+        },
+        {
+            "id": "c5d7a5a1-4682-49d0-9ba4-1d38fdc8cdd9",
+            "extra_id": "PARSLEY 14 GLOSS - 6650",
+            "name": "PARSLEY 14 GLOSS - 6650 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.64.1"
+        },
+        {
+            "id": "c5d7a5a1-4682-49d0-9ba4-1d38fdc8cdd9",
+            "extra_id": "PARSLEY 14 GLOSS - 6650",
+            "name": "PARSLEY 14 GLOSS - 6650 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 39,
+            "external_lot": "1475.64.2"
+        },
+        {
+            "id": "2c832c5d-2057-4c76-9a88-432a10c8b140",
+            "extra_id": "PARSLEY 14 GLOSS - 6370",
+            "name": "PARSLEY 14 GLOSS - 6370 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.65.1"
+        },
+        {
+            "id": "b3c7f4bd-677c-4819-a25d-d74b22b59968",
+            "extra_id": "PARSLEY 14 GLOSS - 6475",
+            "name": "PARSLEY 14 GLOSS - 6475 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.66.1"
+        },
+        {
+            "id": "4458b732-ea7f-4fd2-8309-bcb3057d5829",
+            "extra_id": "PARSLEY 14 GLOSS - 6715",
+            "name": "PARSLEY 14 GLOSS - 6715 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 6,
+            "external_lot": "1475.67.1"
+        },
+        {
+            "id": "e6524d76-e16b-47cd-97c6-8d14c9025a41",
+            "extra_id": "PARSLEY 14 GLOSS - 6295",
+            "name": "PARSLEY 14 GLOSS - 6295 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.68.1"
+        },
+        {
+            "id": "13750849-8b05-47d0-8f02-daa4a7e9ad1e",
+            "extra_id": "PARSLEY 14 GLOSS - 6325",
+            "name": "PARSLEY 14 GLOSS - 6325 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.69.1"
+        },
+        {
+            "id": "9a7205bd-a124-49be-a528-b6f6a4e5959f",
+            "extra_id": "PARSLEY 14 GLOSS - 6305",
+            "name": "PARSLEY 14 GLOSS - 6305 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.7.1"
+        },
+        {
+            "id": "2e5fcec9-c704-410c-a577-660a575c6b2d",
+            "extra_id": "PARSLEY 14 GLOSS - 6040",
+            "name": "PARSLEY 14 GLOSS - 6040 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 1,
+            "external_lot": "1475.70.1"
+        },
+        {
+            "id": "531309bc-6544-4ef4-af7c-0520b3b115be",
+            "extra_id": "PARSLEY 14 GLOSS - 6310",
+            "name": "PARSLEY 14 GLOSS - 6310 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.71.1"
+        },
+        {
+            "id": "59404e24-98df-4691-bc8a-7ff30dedfb86",
+            "extra_id": "PARSLEY 14 GLOSS - 6280",
+            "name": "PARSLEY 14 GLOSS - 6280 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.73.1"
+        },
+        {
+            "id": "25abb0e2-40e1-4463-8bdd-67d8144e96f2",
+            "extra_id": "PARSLEY 14 GLOSS - 6085",
+            "name": "PARSLEY 14 GLOSS - 6085 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.74.1"
+        },
+        {
+            "id": "7155dfe0-7b76-470a-ab60-994f2766bc22",
+            "extra_id": "PARSLEY 14 GLOSS - 6395",
+            "name": "PARSLEY 14 GLOSS - 6395 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 2,
+            "external_lot": "1475.75.1"
+        },
+        {
+            "id": "1fae28fb-e7b0-4430-94aa-15901b94903c",
+            "extra_id": "PARSLEY 14 GLOSS - 6290",
+            "name": "PARSLEY 14 GLOSS - 6290 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.76.1"
+        },
+        {
+            "id": "3eeaacab-3ce4-45d1-9d2b-41460ed67c06",
+            "extra_id": "PARSLEY 14 GLOSS - 6255",
+            "name": "PARSLEY 14 GLOSS - 6255 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.77.1"
+        },
+        {
+            "id": "d590d03a-1115-4c3f-a2b2-f87ef3b2fc1f",
+            "extra_id": "PARSLEY 14 GLOSS - 6345",
+            "name": "PARSLEY 14 GLOSS - 6345 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.8.1"
+        },
+        {
+            "id": "15cfe8a7-7244-40c7-a69f-3c7592cd0341",
+            "extra_id": "PARSLEY 14 GLOSS - 6550",
+            "name": "PARSLEY 14 GLOSS - 6550 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 1,
+            "external_lot": "1475.80.1"
+        },
+        {
+            "id": "2b690393-4254-4485-8c66-95cd30ae5b14",
+            "extra_id": "PARSLEY 14 GLOSS - 6285",
+            "name": "PARSLEY 14 GLOSS - 6285 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.81.1"
+        },
+        {
+            "id": "de05b14b-ba2d-4020-aff5-204f14c64b59",
+            "extra_id": "PARSLEY 14 GLOSS - 6590",
+            "name": "PARSLEY 14 GLOSS - 6590 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "175.83.1"
+        },
+        {
+            "id": "d881bed6-0615-4d21-98fb-0292e78c6c31",
+            "extra_id": "PARSLEY 14 GLOSS - 6575",
+            "name": "PARSLEY 14 GLOSS - 6575 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.84.1"
+        },
+        {
+            "id": "974089bb-2b94-4964-9ee4-374ae5cbc289",
+            "extra_id": "PARSLEY 14 GLOSS - 6420",
+            "name": "PARSLEY 14 GLOSS - 6420 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.85.1"
+        },
+        {
+            "id": "fe5ce39d-26a2-4ec8-8b0c-1fa40c7ac343",
+            "extra_id": "PARSLEY 14 GLOSS - 6605",
+            "name": "PARSLEY 14 GLOSS - 6605 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.86.1"
+        },
+        {
+            "id": "d72f88b1-24e6-4f3f-83b9-691b1a1d1595",
+            "extra_id": "PARSLEY 14 GLOSS - 6545",
+            "name": "PARSLEY 14 GLOSS - 6545 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.87.1"
+        },
+        {
+            "id": "1c136a86-f614-43ee-b3a2-ad2515820065",
+            "extra_id": "PARSLEY 14 GLOSS - 6470",
+            "name": "PARSLEY 14 GLOSS - 6470 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.89.1"
+        },
+        {
+            "id": "cd704b5b-7da6-457f-bd5a-7c2ba3901493",
+            "extra_id": "PARSLEY 14 GLOSS - 6430",
+            "name": "PARSLEY 14 GLOSS - 6430 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.9.1"
+        },
+        {
+            "id": "31905792-0ee4-471b-88b2-18b4a805cd51",
+            "extra_id": "PARSLEY 14 GLOSS - 6350",
+            "name": "PARSLEY 14 GLOSS - 6350 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.90.1"
+        },
+        {
+            "id": "5c652530-d225-46a6-a9d0-c667425f7392",
+            "extra_id": "PARSLEY 14 GLOSS - 6710",
+            "name": "PARSLEY 14 GLOSS - 6710 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 10,
+            "external_lot": "1475.92.2"
+        },
+        {
+            "id": "6f26d0b6-957b-4f52-b666-9101a810d0b7",
+            "extra_id": "PARSLEY 14 GLOSS - 6540",
+            "name": "PARSLEY 14 GLOSS - 6540 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 39,
+            "external_lot": "1475.93.2"
+        },
+        {
+            "id": "90e625d7-ae15-4504-8f83-3f8491f2426e",
+            "extra_id": "PARSLEY 14 GLOSS - 6225",
+            "name": "PARSLEY 14 GLOSS - 6225 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.96.1"
+        },
+        {
+            "id": "c27a9fb9-9422-4783-a3cb-fe0a2d4c025a",
+            "extra_id": "PARSLEY 14 GLOSS - 6680",
+            "name": "PARSLEY 14 GLOSS - 6680 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 39,
+            "external_lot": "1475.98.2"
+        },
+        {
+            "id": "7ea54568-7e5b-46cd-9813-f15e6cb6e087",
+            "extra_id": "PARSLEY 14 GLOSS - 6500",
+            "name": "PARSLEY 14 GLOSS - 6500 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.99.1"
+        },
+        {
+            "id": "755f66d2-62ca-48b2-830d-a870904a88c5",
+            "extra_id": "PARSLEY 14 GLOSS - 6695",
+            "name": "PARSLEY 14 GLOSS - 6695 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 39,
+            "external_lot": "127.2.2"
+        },
+        {
+            "id": "feb7100c-7d0f-4dac-aa98-a5b0cfd88dab",
+            "extra_id": "PARSLEY 14 GLOSS - 6620",
+            "name": "PARSLEY 14 GLOSS - 6620 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 39,
+            "external_lot": "127.21.2"
+        },
+        {
+            "id": "c6784b30-d1cb-480f-9542-a993d7aa9033",
+            "extra_id": "PARSLEY 14 GLOSS - 6165",
+            "name": "PARSLEY 14 GLOSS - 6165 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 38,
+            "external_lot": "127.41.2"
+        },
+        {
+            "id": "ef102db7-29bc-4022-9108-08f227233330",
+            "extra_id": "PARSLEY 14 GLOSS - 6155",
+            "name": "PARSLEY 14 GLOSS - 6155 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 40,
+            "external_lot": "127.44.2"
+        },
+        {
+            "id": "74d43109-f93e-48ff-afe4-972a5feeeb0a",
+            "extra_id": "PARSLEY 14 GLOSS - 6405",
+            "name": "PARSLEY 14 GLOSS - 6405 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 38,
+            "external_lot": "127.46.2"
+        },
+        {
+            "id": "80adc0f1-9bd7-4efc-b9bb-8ae6f2c95f86",
+            "extra_id": "PARSLEY 14 GLOSS - 6510",
+            "name": "PARSLEY 14 GLOSS - 6510 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 41,
+            "external_lot": "1475.24.2"
+        },
+        {
+            "id": "621a2e9b-c059-4084-847d-13bb3f977546",
+            "extra_id": "PARSLEY 14 GLOSS - 6195",
+            "name": "PARSLEY 14 GLOSS - 6195 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 40,
+            "external_lot": "1475.42.2"
+        },
+        {
+            "id": "8e0a2675-cece-49ff-b1bc-f2170da5d208",
+            "extra_id": "PARSLEY 14 GLOSS - 6455",
+            "name": "PARSLEY 14 GLOSS - 6455 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 38,
+            "external_lot": "1475.49.2"
+        },
+        {
+            "id": "6e834ad7-e193-4ffc-876c-2f048a9491e5",
+            "extra_id": "PARSLEY 14 GLOSS - 6070",
+            "name": "PARSLEY 14 GLOSS - 6070 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 39,
+            "external_lot": "1475.50.2"
+        },
+        {
+            "id": "4e7e7a26-5738-4c59-bf19-5a4a02a7435f",
+            "extra_id": "PARSLEY 14 GLOSS - 6330",
+            "name": "PARSLEY 14 GLOSS - 6330 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 41,
+            "external_lot": "1475.62.2"
+        },
+        {
+            "id": "9a3c4a7a-bf98-4f07-842b-0596203df8d8",
+            "extra_id": "PARSLEY 14 GLOSS - 6185",
+            "name": "PARSLEY 14 GLOSS - 6185 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 39,
+            "external_lot": "1475.78.2"
+        },
+        {
+            "id": "d881bed6-0615-4d21-98fb-0292e78c6c31",
+            "extra_id": "PARSLEY 14 GLOSS - 6575",
+            "name": "PARSLEY 14 GLOSS - 6575 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 39,
+            "external_lot": "1475.84.2"
+        },
+        {
+            "id": "cd704b5b-7da6-457f-bd5a-7c2ba3901493",
+            "extra_id": "PARSLEY 14 GLOSS - 6430",
+            "name": "PARSLEY 14 GLOSS - 6430 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 40,
+            "external_lot": "1475.9.2"
+        },
+        {
+            "id": "5c652530-d225-46a6-a9d0-c667425f7392",
+            "extra_id": "PARSLEY 14 GLOSS - 6710",
+            "name": "PARSLEY 14 GLOSS - 6710 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 41,
+            "external_lot": "1475.92.3"
+        },
+        {
+            "id": "f6bfbdd5-bd0e-4f3c-a9dc-7ed7a1b45aa5",
+            "extra_id": "PARSLEY 14 GLOSS - 6140",
+            "name": "PARSLEY 14 GLOSS - 6140 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.10.1"
+        },
+        {
+            "id": "f3b72679-5b9d-4140-a69d-0389bf8674f3",
+            "extra_id": "PARSLEY 14 GLOSS - 6480",
+            "name": "PARSLEY 14 GLOSS - 6480 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "127.5.1"
+        },
+        {
+            "id": "60ec9e43-a5f8-44fd-a2c4-ca837af6d4e0",
+            "extra_id": "PARSLEY 14 GLOSS - 6385",
+            "name": "PARSLEY 14 GLOSS - 6385 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 42,
+            "external_lot": "127.9.2"
+        },
+        {
+            "id": "80adc0f1-9bd7-4efc-b9bb-8ae6f2c95f86",
+            "extra_id": "PARSLEY 14 GLOSS - 6510",
+            "name": "PARSLEY 14 GLOSS - 6510 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.24.1"
+        },
+        {
+            "id": "bff067bf-2b70-4c1f-aecf-7a073d72cf7d",
+            "extra_id": "PARSLEY 14 GLOSS - 6015",
+            "name": "PARSLEY 14 GLOSS - 6015 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 40,
+            "external_lot": "1475.55.2"
+        },
+        {
+            "id": "00694945-f67e-4794-887f-9238e4dfce98",
+            "extra_id": "PARSLEY 14 GLOSS - 6630",
+            "name": "PARSLEY 14 GLOSS - 6630 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.57.1"
+        },
+        {
+            "id": "4458b732-ea7f-4fd2-8309-bcb3057d5829",
+            "extra_id": "PARSLEY 14 GLOSS - 6715",
+            "name": "PARSLEY 14 GLOSS - 6715 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.67.2"
+        },
+        {
+            "id": "1fd3a8f3-6180-45d7-9def-0b6a6309a164",
+            "extra_id": "PARSLEY 14 GLOSS - 6335",
+            "name": "PARSLEY 14 GLOSS - 6335 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 4,
+            "external_lot": "1475.72.1"
+        },
+        {
+            "id": "9a3c4a7a-bf98-4f07-842b-0596203df8d8",
+            "extra_id": "PARSLEY 14 GLOSS - 6185",
+            "name": "PARSLEY 14 GLOSS - 6185 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.78.1"
+        },
+        {
+            "id": "1ed049e6-cfac-4d72-a54d-17f9b8290ddd",
+            "extra_id": "PARSLEY 14 GLOSS - 6490",
+            "name": "PARSLEY 14 GLOSS - 6490 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.82.1"
+        },
+        {
+            "id": "dbb0d685-3b17-44d1-a3f9-cc5a81783cb7",
+            "extra_id": "PARSLEY 14 GLOSS - 6375",
+            "name": "PARSLEY 14 GLOSS - 6375 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.91.1"
+        },
+        {
+            "id": "6f26d0b6-957b-4f52-b666-9101a810d0b7",
+            "extra_id": "PARSLEY 14 GLOSS - 6540",
+            "name": "PARSLEY 14 GLOSS - 6540 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.93.1"
+        },
+        {
+            "id": "f7ae2748-e166-496c-8c03-d25c76721f00",
+            "extra_id": "PARSLEY 14 GLOSS - 6705",
+            "name": "PARSLEY 14 GLOSS - 6705 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.94.1"
+        },
+        {
+            "id": "5c5f26cd-3cac-4a60-8756-54f711a739e3",
+            "extra_id": "PARSLEY 14 GLOSS - 6485",
+            "name": "PARSLEY 14 GLOSS - 6485 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.95.1"
+        },
+        {
+            "id": "aee6d1a2-25c7-43c9-a7be-c05cbde0059a",
+            "extra_id": "PARSLEY 14 GLOSS - 6315",
+            "name": "PARSLEY 14 GLOSS - 6315 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.97.1"
+        },
+        {
+            "id": "c27a9fb9-9422-4783-a3cb-fe0a2d4c025a",
+            "extra_id": "PARSLEY 14 GLOSS - 6680",
+            "name": "PARSLEY 14 GLOSS - 6680 - NM 2/54 100% COTTON AEGEAN COMPACT GOTS LS  GASSED",
+            "uom": "kilogram",
+            "quantity": 5,
+            "external_lot": "1475.98.1"
+        }
+    ],
+    "status": "accepted",
+    "supplier_attr": {
+        "id": "67b2e189-b9ee-42af-8aa9-ddd8bf6e2e62",
+        "name": "Hatfil Tekstil Isletmeleri A.S. ",
+        "address": "",
+        "vat": "0000000"
+    },
+    "time": "2026-01-07T19:20:33.436291Z",
+    "updated": {
+        "at": "2026-01-07T19:20:33.436290681Z",
+        "by": {
+            "id": "46bcd6af-0b84-4252-b336-7b117005061f",
+            "full_name": "Arke Team",
+            "username": "team"
+        }
+    },
+    "version": 6,
+    "warehouse_attr": {
+        "id": "89086234-6a91-4b20-9e98-c78b401e531b",
+        "name": "Magazzino Brescia"
+    },
+    "warehouse_id": "89086234-6a91-4b20-9e98-c78b401e531b"
+}

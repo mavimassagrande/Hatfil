@@ -1,0 +1,108 @@
+Assistente Arke
+
+Ciao! Creiamo un ordine. Per quale cliente?
+
+Tu
+
+voglio creare un ordine di vendita per il cliente tunicotex contenente 3 pezzi di parsley 12 - panel
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: MANCANTE Articoli: 0
+Ho trovato il cliente TUNICOTEX. Vuoi confermare questo cliente?
+
+Tu
+
+si
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: MANCANTE Articoli: 0
+Ho impostato il cliente TUNICOTEX. Vuoi confermare l'indirizzo "ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN"? Rispondi con il numero corrispondente.
+
+Tu
+
+si
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN Articoli: 3
+Ho aggiunto 3 pezzi di PARSLEY 12 - PANEL. Vuoi vedere il riepilogo dell'ordine?
+
+Tu
+
+si
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN Articoli: 3
+Riepilogo dell'ordine:
+
+Cliente: TUNICOTEX
+Indirizzo spedizione: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN
+Prodotti: PARSLEY 12 - PANEL x 3 unit
+TOTALE: €0
+Manca la data di spedizione. Quando desideri che venga spedito l'ordine? Puoi indicare una data specifica o una descrizione come "tra 2 settimane".
+
+Tu
+
+procedi con l'ordine in arke
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN Articoli: 3
+Per procedere con l'ordine, ho bisogno di confermare la data di spedizione. Puoi indicare una data specifica o una descrizione come "tra 2 settimane".
+
+Tu
+
+tra due settimane
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN Articoli: 3
+Riepilogo dell'ordine:
+
+Cliente: TUNICOTEX
+Indirizzo spedizione: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN
+Data spedizione: tra 2 settimane
+Prodotti: PARSLEY 12 - PANEL x 3 unit
+TOTALE: €0
+Tutti i dati sono completi. Scrivi CONFERMA per creare l'ordine.
+
+Tu
+
+conferma
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN Articoli: 3
+Si è verificato un errore nella creazione dell'ordine. La data di spedizione deve essere in un formato specifico e non posso usare "tra 2 settimane".
+
+Ti prego di fornire una data specifica nel formato: YYYY-MM-DD (ad esempio, 2026-02-01). Vuoi fornire una nuova data?
+
+Tu
+
+2026-02-01
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN Articoli: 3
+Riepilogo dell'ordine:
+
+Cliente: TUNICOTEX
+Indirizzo spedizione: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN
+Data spedizione: 2026-02-01
+Prodotti: PARSLEY 12 - PANEL x 3 unit
+TOTALE: €0
+Tutti i dati sono completi. Scrivi CONFERMA per creare l'ordine.
+
+Tu
+
+conferma
+
+Assistente Arke
+
+--- STATO DB --- Cliente: TUNICOTEX Indirizzo: ROUTE DE GROMBALA KM 1 8020 SOLIMAN (-) - TN Articoli: 3
+Si è verificato un errore nella creazione dell'ordine. La data di spedizione deve essere fornita con un formato specifico di data e ora (es. "2026-02-01T00:00:00Z").
+
+Puoi fornire una nuova data di spedizione nel formato corretto?

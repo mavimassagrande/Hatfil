@@ -1,0 +1,44 @@
+steps:
+  # Build container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - 'europe-west1-docker.pkg.dev/$PROJECT_ID/hatfil/hatfil-app:latest'
+      - '.'
+    timeout: 900s
+
+  # Push to Artifact Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - '--all-tags'
+      - 'europe-west1-docker.pkg.dev/$PROJECT_ID/hatfil/hatfil-app'
+
+  # Deploy to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'hatfil-app'
+      - '--image=europe-west1-docker.pkg.dev/$PROJECT_ID/hatfil/hatfil-app:latest'
+      - '--region=europe-west1'
+      - '--platform=managed'
+      - '--allow-unauthenticated'
+      - '--min-instances=1'
+      - '--max-instances=10'
+      - '--memory=512Mi'
+      - '--cpu=1'
+      - '--timeout=300'
+      - '--concurrency=80'
+      - '--vpc-connector=hatfil-vpc-connector'
+      - '--set-secrets=DATABASE_URL=DATABASE_URL:latest,ARKE_API_TOKEN=ARKE_API_TOKEN:latest,OPENAI_API_KEY=OPENAI_API_KEY:latest,ANTHROPIC_API_KEY=ANTHROPIC_API_KEY:latest,SESSION_SECRET=SESSION_SECRET:latest'
+      - '--set-env-vars=NODE_ENV=production,ARKE_BASE_URL=https://hatfil.arke.so/api,NODE_TLS_REJECT_UNAUTHORIZED=0'
+
+images:
+  - 'europe-west1-docker.pkg.dev/$PROJECT_ID/hatfil/hatfil-app:latest'
+
+timeout: 1200s
+options:
+  machineType: 'E2_HIGHCPU_8'

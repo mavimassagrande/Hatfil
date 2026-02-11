@@ -13,3 +13,8 @@ vite.config.ts.*
 # Script di utility temporanei
 clean-db.js
 test-db.js
+test-alloydb-connection.js
+
+# Credenziali GCP
+sa-key.json
+*.pem

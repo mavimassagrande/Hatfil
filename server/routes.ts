@@ -1900,6 +1900,16 @@ export async function registerRoutes(
   await seedAgents();
   await seedConfiguratorData();
 
+  // ==================== HEALTHCHECK ====================
+  // Healthcheck endpoint per Cloud Run
+  app.get("/api/health", (_req, res) => {
+    res.status(200).json({
+      status: "healthy",
+      timestamp: new Date().toISOString(),
+      service: "hatfil-api"
+    });
+  });
+
   // ==================== AUTHENTICATION ====================
   app.post("/api/login", async (req, res) => {
     try {
@@ -2317,6 +2327,7 @@ export async function registerRoutes(
       const folders = await db.select().from(colorFolders);
       res.json(folders);
     } catch (error) {
+      console.error("Error fetching folders:", error);
       res.status(500).json({ error: "Failed to fetch folders" });
     }
   });
@@ -3123,6 +3134,7 @@ export async function registerRoutes(
       
       res.json(products);
     } catch (error) {
+      console.error("Error fetching master products:", error);
       res.status(500).json({ error: "Failed to fetch master products" });
     }
   });
@@ -3568,6 +3580,7 @@ export async function registerRoutes(
       
       res.json(generated);
     } catch (error) {
+      console.error("Error fetching generated products:", error);
       res.status(500).json({ error: "Failed to fetch generated products" });
     }
   });
